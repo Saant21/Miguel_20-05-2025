@@ -1,1 +1,55 @@
-Hello world
+ESPECIFICAÇÃO FUNCIONAL / VERSÃO DO TEMPLATE: 1.0/ VERSÃO DO MANUAL TÉCNICO 0.0.17 PÁGINA 1 / 2
+PROJETO
+SIPROQUIM 2
+IDENTIFICAÇÃO DATA DE CRIAÇÃO
+Manual Técnico 30/08/2019
+COMENTÁRIOS À VERSÃO 0.0.17
+Atendendo às recentes solicitações do setor regulado acerca da indicação direta
+sobre quais alterações foram executadas pela Polícia Federal nas novas versões do
+Manual Técnico, elencaremos abaixo os itens evoluídos até a presente versão. Ressaltase que a última versão publicada foi a de número 0.0.16, que esteve disponível a partir do
+dia 21/08/2019.
+Da versão 0.0.7 até a versão 0.0.16, alterou-se os seguintes tópicos:
+a) Foi corrigida a referência errada existente no parágrafo explicativo do item 3.1.3.3
+Subseção Armazenagem (MA), onde lia-se "descrita no item da seção 3.4.3.3" para
+"descrita na seção 3.1.3".
+b) O item 3.1.4.1 - Subseção Responsável pelo Transporte (TRA), somente será
+obrigatório em casos onde o responsável pelo transporte seja uma terceirizada
+nacional.
+c) Foi criado novo item - Subseção 3.1.4.2 - Subseção Responsável pelo Transporte
+(TRI), apropriada para a declaração de informações da transportadora em casos
+onde o responsável pelo transporte seja uma terceirizada internacional.
+d) A antiga "Subseção Transporte Internacional (TI)" foi denominada nessa versão
+"Seção Transporte Internacional (TI), corrigindo o nível hierárquico da
+funcionalidade no texto do Manual Técnico.
+e) O item 3.1.11.1 passou a se chamar "Subseção Produtos Armazenados (PA)".
+f) Acrescentou-se a necessidade de informação do Tipo identificador de linha para as
+subseções 3.1.9.4 (TM), 3.1.10.4 (TZ) e 3.1.11.1 (PA).
+g) Quando da declaração de produtos simples, identificou-se a necessidade de
+informar o identificador de produto ou resíduo químico (PR ou RC) no âmbito das
+seções declarativas de movimentação. Foram atualizadas as seções e subseções
+abaixo:
+I. 3.1.3.1 Movimento (MM)
+II. 3.1.4.6 Nota Fiscal (NF)
+III. 3.1.5 Utilização para Produção (UP)
+IV. 3.1.5.1 Produto Final Produzido (UF)
+V. 3.1.6 Utilização para Transformação (UT)
+ESPECIFICAÇÃO FUNCIONAL / VERSÃO DO TEMPLATE: 1.0/ VERSÃO DO MANUAL TÉCNICO 0.0.17 PÁGINA 2 / 2
+VI. 3.1.6.1 Produto Final Produzido na Transformação (UZ)
+VII. 3.1.7 Utilização para Consumo (UC)
+VIII. 3.1.8 Fabricação (FB)
+IX. 3.1.9.4 Movimentação de Transporte Nacional (TM)
+X. 3.1.10.4 Movimentação de Transporte Internacional (TZ)
+XI. 3.1.11.1 Produtos Armazenados (PA)
+h) Houve atualização também na tabela de produtos químicos, onde foram mantidos os
+códigos dos produtos, porém foram melhor especificadas as descrições daqueles que possuem
+NCM diferenciados para o mesmo produto químico controlado.
+i) Na Subseção Armazenagem (MA) (3.1.3.3) da Movimentação Nacional de Produtos
+Químicos, houve uma melhor especificação sobre o preenchimento do endereço de
+armazenagem, inclusive indicando as condições de preenchimento em operações de entrada e
+saída.
+j) Na seção Movimentação Internacional de Produtos Químicos (MVI), o campo "Nº da DI" foi
+alterado para o tamanho de 12 caracteres, ao invés de 10.
+Da Versão 0.0.16 até a presente versão (0.0.17) alterou-se o seguinte:
+a) Na seção Utilização para Consumo (UC), onde lia-se Data do consumo 102,10 data, ler-se
+nessa versão Data do Consumo 103,10 data. Corrigindo-se a indicação posicional do início da
+data de consumo na linha de texto produzida.
