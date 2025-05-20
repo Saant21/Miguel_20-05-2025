@@ -1,2 +1,13 @@
-robson bacanudo
-robson rico
+Atividade 20/05/2025
+
+•	Criar um repositório no Git Hub com o nome: “SEUNOME_DataHoje”
+•	Ex:   ROBSON_20.05.2025
+
+•	Associar a um repositório local
+•	Versionar:
+	03 Arquivos de texto
+	05 commits (03 de criação de arquivos e 02 de modificação de arquivos
+•	Enviar para o Git Hub
+•	Disponibilizar o endereço do repositório do Git Hub na tarefa 
+
+
